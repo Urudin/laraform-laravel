@@ -22,7 +22,7 @@
         "docs": "https://laraform.io/docs"
     },
     "require": {
-        "php": ">=5.5.9",
+        "php": ">=7.0",
         "hashids/hashids": "^4.1.0"
     },
     "require-dev": {
